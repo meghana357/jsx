@@ -1,0 +1,16 @@
+body{
+    background-image: url("C:\Users\lenovo\Downloads\clouds.jpg");
+    background-size: 100%;
+    background-repeat: no-repeat;
+}.formContainer{
+    height: 500px;
+    width: 550px;
+    overflow: hidden;
+    align-items: center;
+    margin-top: 10%;
+    margin-bottom: 5%;
+    margin-left: 35%;
+    margin-right: 70%;
+    border-radius: 30px;
+    color:bisque;
+  }
